@@ -1,0 +1,11 @@
+{
+  "name": "animate-frames",
+  "version": "0.0.0-beta.1",
+  "description": "逐帧动画",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Jesonhu",
+  "license": "MIT"
+}
